@@ -1,0 +1,19 @@
+.nav-bar{
+    background-color: #f0f2f5;
+
+}
+.layout{
+    padding: 15px;
+    display: flex;
+    height: 100vh;
+    background-color: #fff;
+}
+.search{
+    width: 800px;
+   
+   
+}
+.counter{
+    width: 570px;
+    
+}

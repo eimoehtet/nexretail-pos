@@ -1,0 +1,6 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const FIND_ITEMS = "FIND_ITEMS";
+export const FIND_ITEMS_BY_SKU="FIND_ITEMS_BY_SKU";
+export const GET_ITEM_BY_ID="GET_ITEM_BY_ID";
+export const GET_CUSTOMERS = "GET_CUSTOMERS";
+export const CREATE_CUSTOMER = "CREATE_CUSTOMER";
